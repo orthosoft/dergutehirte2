@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "223211044513",
+    "project_id": "der-gute-hirte",
+    "storage_bucket": "der-gute-hirte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223211044513:android:c8f84601dabfd8948efae0",
+        "android_client_info": {
+          "package_name": "com.orthosoft.dergutehir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223211044513-1f3odmbf120so85j0fg7kbb3s3i3jd8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bNnzr3OiaJo-ITDZnaKqsur0JUTJaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223211044513-1f3odmbf120so85j0fg7kbb3s3i3jd8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223211044513-hab39baoejgv71k6s2iv5m16hr0n4k24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orthosoft.dergutehirte"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223211044513:android:fe2f6e9f23f81a828efae0",
+        "android_client_info": {
+          "package_name": "com.orthosoft.dergutehirte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223211044513-1f3odmbf120so85j0fg7kbb3s3i3jd8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bNnzr3OiaJo-ITDZnaKqsur0JUTJaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223211044513-1f3odmbf120so85j0fg7kbb3s3i3jd8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223211044513-hab39baoejgv71k6s2iv5m16hr0n4k24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orthosoft.dergutehirte"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
